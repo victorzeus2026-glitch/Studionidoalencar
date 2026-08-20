@@ -1,0 +1,1 @@
+Coloque aqui as fotos reais (ex.: dr-rosenildo.jpg, estudio.jpg) e aponte as tags <img> do index.html para img/nome-do-arquivo.jpg
